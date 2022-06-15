@@ -9,7 +9,7 @@
   "connectionLostBanner.cta": "Tải lại dịch vụ",
   "connectionLostBanner.informationLink": "Điều gì đã xảy ra?",
   "connectionLostBanner.message": "Mất kết nối tới {name}.",
-  "feature.basicAuth.signIn": "Sign In",
+  "feature.basicAuth.signIn": "Đăng nhập",
   "feature.publishDebugInfo.error": "Đã xảy ra lỗi khi cố gắng xuất bản thông tin gỡ lỗi. Vui lòng thử lại sau hoặc xem bảng điều khiển để biết thêm thông tin.",
   "feature.publishDebugInfo.info": "Việc xuất bản thông tin gỡ lỗi của bạn sẽ giúp chúng tôi tìm ra các vấn đề và lỗi trong Ferdi. Bằng cách xuất bản thông tin gỡ lỗi của bạn, bạn chấp nhận chính sách bảo mật và điều khoản dịch vụ của Trình gỡ lỗi Ferdi",
   "feature.publishDebugInfo.privacy": "Chính sách",
